@@ -254,21 +254,27 @@ Digunakan pada kondisi apabila :
 ![pseudocode](https://user-images.githubusercontent.com/109120017/179404148-1f3b3dd6-1ac8-4bb7-b358-8b68326bee04.png)
 
 **Procedural/Step by Step**
+
 `Adalah cara berpikir runtun, artinya rangkaian perintah yang dilakukan ssecara berurutan.`
 
 **Conditional**
+
 `Digunakan saat dibutuhkan percabangan kasus. Komputer akan melakukan pekerjaannya jika suatu kondisi terpenuhi.`
 
 **Looping/Pengulangan**
+
 `Komputer dapat melakukan sebuah proses secara berulang-ulang.`
 
 `Jika membutuhkan perulangan dalam sebuah kasus tertentu, looping dapat digunakan.
 
 **Recursive**
-`Pola pikir dalam algoritma yang memanggil *method/function* di dalam sebuah *function*.`
+
+`Pola pikir dalam algoritma yang memanggil **method/function** di dalam sebuah **function**.`
 
 **Ada 2 pandangan yang harus diketahui dari Algoritma :**
->1.Gunakan algoritma kita sendiri dalam menyelesaikan masalah
+
+>1. Gunakan algoritma kita sendiri dalam menyelesaikan masalah
+
 >2. Gunakan algoritma yang sudah umum disediakan jika dibutuhkan
 
 
