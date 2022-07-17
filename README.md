@@ -1,4 +1,5 @@
-# **SUMMARY MINGGU 1** #
+# **SUMMARY MINGGU 1** #![coding css]
+
 
 # ***DAY 1*** #
 ## **Command Line Interface (CLI)** ##
@@ -155,7 +156,7 @@ Ada 3 cara menggunakan CSS :
 >Namun harus dalam 1 folder project yang sama.
 
 Contoh :
-<img src="coding css.jpg">
+![coding css](https://user-images.githubusercontent.com/109120017/179403899-7b1c2a5b-1200-4cfa-a2c7-a318d2725d43.jpg)
 
 ### **Cara Mendesain elemen HTML pada CSS** ###
 > Note : Ada beberapa cara yang dapat digunakan sesuai kebutuhan :
@@ -187,7 +188,8 @@ Contoh :
 Digunakan pada kondisi apabila :
 >Memiliki 3 tag elemen HTML pada CSS namun kita ingin ada 1 elemen HTML yang memiliki styling berbeda.
 
-<img src="chaining selector.png">
+![chaining selector](https://user-images.githubusercontent.com/109120017/179404016-0aaf1ddd-7483-4bf9-85dd-6a2daa6639bc.png)
+
 
 ### **Nested Element** ###
 >Konsep CSS sama dengan HTML yaitu setiap element memiliki parent dan child.
@@ -233,7 +235,8 @@ Digunakan pada kondisi apabila :
 * Algoritma akan menyelesaikan masalah menggunakan data tersebut
 
 ### **Contoh Algoritma Sederhana:** ###
-<img src="algoritma.png">
+![algoritma](https://user-images.githubusercontent.com/109120017/179404053-63976dd2-74ab-4f0d-a689-776bbc36aa9a.png)
+
 
 ### **Pseudocode** ###
 > **Pseudocode** = tools/alat untuk menuliskan algoritma yang umumnya bahasa inggris sebelum diterapkan ke bahasa pemrograman tertentu.
@@ -248,6 +251,7 @@ Digunakan pada kondisi apabila :
 > 4. Harus simpel
 
 **Contoh :**
+
 
 
 
