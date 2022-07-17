@@ -18,11 +18,11 @@
 
 >**1. Navigation**
 
-a. **pwd (Print working Directory)**
+a. **pwd (Print working Directory) :** Mencari path dari direktori yang digunakan saat ini.
 
-b. **ls (lists)**
+b. **ls (lists) :** Menampilkan daftar file dan folder
 
-c. **cd (change directory)**
+c. **cd (change directory) :** Perintah untuk pindah folder
 
 >**2. File Manipulation**
 
@@ -34,17 +34,17 @@ b. **cat**
 
 `Perintah yang digunakan untuk membuat files & direktori :`
 
-a. **touch**
+a. **touch :** membuat file
 
-b. **mkdir**
+b. **mkdir :** membuat direktori
 
-`Perintah yang digunakan untuk menyalin, memindahkan, dan menghapus files & irektory :`
+`Perintah yang digunakan untuk menyalin, memindahkan, dan menghapus files & direktory :`
 
-a. **cp**
+a. **cp :** menyalin file ke folder
 
-b. **mv**
+b. **mv :** memindahkan file baru
 
-c. **rm**
+c. **rm :** membuat file
 
 
 # ***DAY 2*** #
