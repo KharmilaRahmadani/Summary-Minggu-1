@@ -1,4 +1,4 @@
-# **SUMMARY MINGGU 1** #![coding css]
+# **SUMMARY MINGGU 1** #
 
 
 # ***DAY 1*** #
