@@ -265,11 +265,11 @@ Digunakan pada kondisi apabila :
 
 `Komputer dapat melakukan sebuah proses secara berulang-ulang.`
 
-`Jika membutuhkan perulangan dalam sebuah kasus tertentu, looping dapat digunakan.
+`Jika membutuhkan perulangan dalam sebuah kasus tertentu, looping dapat digunakan.`
 
 **Recursive**
 
-`Pola pikir dalam algoritma yang memanggil **method/function** di dalam sebuah **function**.`
+`Pola pikir dalam algoritma yang memanggil method/function di dalam sebuah function.`
 
 **Ada 2 pandangan yang harus diketahui dari Algoritma :**
 
